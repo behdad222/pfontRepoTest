@@ -8,6 +8,32 @@
 	<integer>1</integer>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>uni0627.short</string>
+		<string>uniFE8E.short</string>
+		<string>uni066E</string>
+		<string>uni066E.fina</string>
+		<string>uni066E.medi</string>
+		<string>uni066E.init</string>
+		<string>uni06A1</string>
+		<string>uni06A1.fina</string>
+		<string>uni06A1.medi</string>
+		<string>uni06A1.init</string>
+		<string>uni066F</string>
+		<string>uni066F.fina</string>
+		<string>uni06BA</string>
+		<string>uniFB9F</string>
+		<string>uniFBB2</string>
+		<string>uniFBB3</string>
+		<string>dotcenter-ar</string>
+		<string>uniFBBD</string>
+		<string>uniFBBE</string>
+		<string>uniFBB4</string>
+		<string>uniFBB5</string>
+		<string>uniFBB8</string>
+		<string>uniFBB9</string>
+		<string>uniFBB6</string>
+		<string>uniFBB7</string>
+		<string>hamzacenter-ar</string>
 	</array>
 </dict>
 </plist>

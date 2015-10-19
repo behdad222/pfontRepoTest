@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dotcenter-ar</key>
+	<string>dotcenter-ar.glif</string>
+	<key>hamzacenter-ar</key>
+	<string>hamzacenter-ar.glif</string>
+	<key>uni0627.short</key>
+	<string>uni0627.short.glif</string>
+	<key>uni066E</key>
+	<string>uni066E_.glif</string>
+	<key>uni066E.fina</key>
+	<string>uni066E_.fina.glif</string>
+	<key>uni066E.init</key>
+	<string>uni066E_.init.glif</string>
+	<key>uni066E.medi</key>
+	<string>uni066E_.medi.glif</string>
+	<key>uni066F</key>
+	<string>uni066F_.glif</string>
+	<key>uni066F.fina</key>
+	<string>uni066F_.fina.glif</string>
+	<key>uni06A1</key>
+	<string>uni06A_1.glif</string>
+	<key>uni06A1.fina</key>
+	<string>uni06A_1.fina.glif</string>
+	<key>uni06A1.init</key>
+	<string>uni06A_1.init.glif</string>
+	<key>uni06A1.medi</key>
+	<string>uni06A_1.medi.glif</string>
+	<key>uni06BA</key>
+	<string>uni06B_A_.glif</string>
+	<key>uniFB9F</key>
+	<string>uniF_B_9F_.glif</string>
+	<key>uniFBB2</key>
+	<string>uniF_B_B_2.glif</string>
+	<key>uniFBB3</key>
+	<string>uniF_B_B_3.glif</string>
+	<key>uniFBB4</key>
+	<string>uniF_B_B_4.glif</string>
+	<key>uniFBB5</key>
+	<string>uniF_B_B_5.glif</string>
+	<key>uniFBB6</key>
+	<string>uniF_B_B_6.glif</string>
+	<key>uniFBB7</key>
+	<string>uniF_B_B_7.glif</string>
+	<key>uniFBB8</key>
+	<string>uniF_B_B_8.glif</string>
+	<key>uniFBB9</key>
+	<string>uniF_B_B_9.glif</string>
+	<key>uniFBBD</key>
+	<string>uniF_B_B_D_.glif</string>
+	<key>uniFBBE</key>
+	<string>uniF_B_B_E_.glif</string>
+	<key>uniFE8E.short</key>
+	<string>uniF_E_8E_.short.glif</string>
+</dict>
+</plist>
